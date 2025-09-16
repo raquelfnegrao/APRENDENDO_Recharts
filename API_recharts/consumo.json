@@ -1,0 +1,14 @@
+[
+  { "veiculo": "Fiat Argo", "consumo": 1200 },
+  { "veiculo": "Ford Ranger", "consumo": 1800 },
+  { "veiculo": "Toyota Hilux", "consumo": 1500 },
+  { "veiculo": "VW Saveiro", "consumo": 2100 },
+  { "veiculo": "Fiat Argo", "consumo": 250 },
+  { "veiculo": "Ford Ranger", "consumo": 1800 },
+  { "veiculo": "Toyota Hilux", "consumo": 600 },
+  { "veiculo": "VW Saveiro", "consumo": 2100 },
+  { "veiculo": "Fiat Argo", "consumo": 805 },
+  { "veiculo": "Ford Ranger", "consumo": 1800 },
+  { "veiculo": "Toyota Hilux", "consumo": 985 },
+  { "veiculo": "VW Saveiro", "consumo": 1587 }
+]

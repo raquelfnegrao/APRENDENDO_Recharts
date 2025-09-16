@@ -1,0 +1,14 @@
+[
+  { "veiculo": "Fiat Argo", "custo": 3200, "ano": 2025, "mes": 1 },
+  { "veiculo": "Ford Ranger", "custo": 7900, "ano": 2024, "mes": 5 },
+  { "veiculo": "Toyota Hilux", "custo": 5500, "ano": 2025, "mes": 3 },
+  { "veiculo": "VW Saveiro", "custo": 2100, "ano": 2025, "mes": 3 },
+  { "veiculo": "Fiat Toro", "custo": 3100, "ano": 2023, "mes": 2 },
+  { "veiculo": "Mitsubish Triton", "custo": 7800, "ano": 2024, "mes": 7 },
+  { "veiculo": "Toyota Etios", "custo": 5300, "ano": 2022, "mes": 4 },
+  { "veiculo": "VW Amorok", "custo": 2500, "ano": 2023, "mes": 9 },
+  { "veiculo": "Fiat Uno", "custo": 350, "ano": 2025, "mes": 10 },
+  { "veiculo": "Ford Ka", "custo": 1800, "ano": 2023, "mes": 8 },
+  { "veiculo": "Toyota Corolla", "custo": 8500, "ano": 2025, "mes": 4 },
+  { "veiculo": "VW Gol", "custo": 2800, "ano": 2022, "mes": 12 }
+]
